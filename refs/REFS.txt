@@ -1,0 +1,12 @@
+@inbook{inbook,
+author = {Rios, Gordon and Marvuglia, Antonino and Wallace, Richard},
+year = {2010},
+month = {01},
+pages = {515-525},
+title = {Automated N-Step Univariate Time Series Forecasts with Bayesian Networks},
+volume = {4},
+isbn = {9783642146152},
+journal = {Smart Innovation, Systems and Technologies},
+doi = {10.1007/978-3-642-14616-9_50}
+}
+
